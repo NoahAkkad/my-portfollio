@@ -84,16 +84,20 @@ export const Skill_data = [
     {
       name: "Discord",
       src: "/discord.svg",
+      href: "https://discord.com/",
     },
     {
       name: "Facebook",
       src: "/facebook.svg",
+      href: "https://www.facebook.com/",
     },
     {
       name: "Instagram",
       src: "/instagram.svg",
+      href: "https://www.instagram.com/",
     },
     // Add more socials here or remove some from the list
+    // remember to add the image to the public folder for the src 
     
   ];
   
