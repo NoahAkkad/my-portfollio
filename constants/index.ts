@@ -77,6 +77,8 @@ export const Skill_data = [
       width: 40,
       height: 40,
     },
+    // Add more skills here or remove some from the list
+    // remember to add the image to the public folder for the src
   
   ];
   
@@ -164,6 +166,9 @@ export const Skill_data = [
       width: 80,
       height: 80,
     },
+
+    // Add more skills here or remove some from the list
+    // remember to add the image to the public folder for the src
   ];
   
   export const Backend_skill = [
@@ -215,6 +220,8 @@ export const Skill_data = [
       width: 80,
       height: 80,
     },
+    // Add more skills here or remove some from the list
+    // remember to add the image to the public folder for the src
   ];
   
   export const Full_stack = [
@@ -243,6 +250,9 @@ export const Skill_data = [
       width: 50,
       height: 50,
     },
+
+    // Add more skills here or remove some from the list
+    // remember to add the image to the public folder for the src
   
   ];
   
@@ -255,6 +265,9 @@ export const Skill_data = [
       width: 60,
       height: 60,
     },
+
+    // Add more skills here or remove some from the list
+    // remember to add the image to the public folder for the src
   ];
   
   
